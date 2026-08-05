@@ -1,5 +1,7 @@
+package EncapsulamientoTallerN1.Ejercicio2;
+
 /**
- * Clase que gestiona la información de un Aprendiz SENA.
+ * Clase que gestiona la información de un EncapsulamientoTallerN1.Ejercicio2.Aprendiz SENA.
  */
 public class Aprendiz {
     private String documento;
